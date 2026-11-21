@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**dkwolf1/dkwolf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dennis 👋
 
-Here are some ideas to get you started:
+### Open-source developer | Home Assistant | Python | Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an independent developer from the Netherlands.
+
+I develop and maintain Home Assistant integrations,
+automation tools and practical software solutions.
+
+I also publish free technical guides and tutorials
+on [MechScript.nl](https://mechscript.nl).
+
+## ❤️ Support my work
+
+My open-source projects and documentation are free.
+Your support helps cover development, testing and
+maintenance costs.
+
+[❤️ GitHub Sponsors](https://github.com/sponsors/dkwolf1)
+&nbsp; | &nbsp;
+[☕ Support on Ko-fi](https://ko-fi.com/dkw1988)
+
+## 🔧 Projects
+
+Explore my repositories below for Home Assistant
+integrations, Python tools, automation and more.
